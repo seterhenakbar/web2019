@@ -384,14 +384,15 @@ a:hover {
       .navbar.navbar-1 .navbar-brand {
         margin-left: 1rem; } }
     .navbar.navbar-1 .navbar-brand > img {
-      height: 60pt; }
+      height: 60px; }
       .navbar.navbar-1 .navbar-brand > img.dark {
         display: none; }
       @media (max-width: 991px) {
         .navbar.navbar-1 .navbar-brand > img.light {
           display: none; }
         .navbar.navbar-1 .navbar-brand > img.dark {
-          display: block; } }
+          display: block;
+          height: 45px } }
   @media (min-width: 575px) and (max-width: 991px) {
     .navbar.navbar-1 .navbar-toggler {
       margin-right: 1rem; } }
